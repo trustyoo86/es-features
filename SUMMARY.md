@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [es-features](README.md)
 * [ES2018](es2018/README.md)
-  * [Regex](es2018/regex.md)
+  * [Rest/Spread Properties](es2018/rest-spread-properties.md)
 
