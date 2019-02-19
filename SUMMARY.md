@@ -7,4 +7,6 @@
     * [2\) Object.assign 효과](es2018/rest-spread-properties/2-object-merge.md)
     * [3\) spread property 객체 복사 특성](es2018/rest-spread-properties/untitled.md)
     * [4\) shallow copy](es2018/rest-spread-properties/4-shallow-copy.md)
+    * [5\) rest 할당](es2018/rest-spread-properties/5-rest.md)
+    * [6\) rest/spread property 지원](es2018/rest-spread-properties/6-rest-spread-property.md)
 
