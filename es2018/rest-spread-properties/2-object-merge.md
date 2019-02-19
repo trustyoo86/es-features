@@ -1,6 +1,10 @@
-# 2\) Object merge
+---
+description: spread property를 이용하여 Object.assign 효과를 구현할 수 있습니다.
+---
 
-두개 Object를 병합하여 assign method 대신 사
+# 2\) Object.assign 효과
+
+두개 Object를 병합하여 assign method 대신 사용
 
 * 새로 할당하는 object내 같은 property가 있는경우 merge
 
