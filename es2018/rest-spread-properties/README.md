@@ -1,34 +1,11 @@
 # Rest/Spread Properties
 
+### Spread
 
+* Iterable object의 속성들을 하나씩 분리하여 나열하는 문법
 
-2\) 두개 Object를 병합하여 assign method 대신 사
+### rest
 
-* 새로 할당하는 object내 같은 property가 있는경우 merge
-
-```javascript
-const obj1 = {
-  a: 10,
-  b: 20
-};
-
-const obj2 = {
-  ...obj1,
-  a: 30
-};
-
-console.log(obj2);    // → {a: 30, b: 20}
-```
-
-```javascript
-const obj1 = {a: 10};
-const obj2 = {b: 20};
-const obj3 = {c: 30};
-
-// ES2018
-console.log({...obj1, ...obj2, ...obj3});    // → {a: 10, b: 20, c: 30}
-
-// ES2015
-console.log(Object.assign({}, obj1, obj2, obj3));
-```
+* 함수 호출시 `spread` 연산자로 파라미터를 작성한 형태
+* 배열\(Array\) 형태로 반
 
