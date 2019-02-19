@@ -1,22 +1,6 @@
 # Rest/Spread Properties
 
-1\) spread를 이용하여 객체 복사 가능해짐
 
-* obj1을 obj2에 spread형태로 할당
-
-```javascript
-const obj1 = {
-  a: 10,
-  b: 20
-};
-
-const obj2 = {
-  ...obj1,
-  c: 30
-};
-
-console.log(obj2); 
-```
 
 2\) 두개 Object를 병합하여 assign method 대신 사
 
