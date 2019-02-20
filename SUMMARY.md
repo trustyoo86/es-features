@@ -9,5 +9,6 @@
     * [4\) shallow copy](es2018/rest-spread-properties/4-shallow-copy.md)
     * [5\) rest 할당](es2018/rest-spread-properties/5-rest.md)
     * [6\) rest/spread property 지원](es2018/rest-spread-properties/6-rest-spread-property.md)
-  * [Asynchronous Iteration \(비동기 반복\)](es2018/asynchronous-iteration.md)
+  * [Asynchronous Iteration](es2018/asynchronous-iteration/README.md)
+    * [1\) Symbol.asyncIterator](es2018/asynchronous-iteration/1-symbol.asynciterator.md)
 
