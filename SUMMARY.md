@@ -11,4 +11,5 @@
     * [6\) rest/spread property 지원](es2018/rest-spread-properties/6-rest-spread-property.md)
   * [Asynchronous Iteration](es2018/asynchronous-iteration/README.md)
     * [1\) Symbol.asyncIterator](es2018/asynchronous-iteration/1-symbol.asynciterator.md)
+    * [2\) for...await...of](es2018/asynchronous-iteration/2-for...await...of.md)
 
