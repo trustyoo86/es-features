@@ -14,4 +14,7 @@
     * [2\) for...await...of](es2018/asynchronous-iteration/2-for...await...of.md)
     * [3\) reject try / catch](es2018/asynchronous-iteration/3-reject-try-catch.md)
     * [4\) asyncIterator support](es2018/asynchronous-iteration/4-asynciterator-support.md)
+  * [Promise.prototype.finally](es2018/promise.prototype.finally/README.md)
+    * [1\) finally\(\) method](es2018/promise.prototype.finally/1-finally-method.md)
+    * [2\) finally\(\) method support](es2018/promise.prototype.finally/2-finally-method-support.md)
 
