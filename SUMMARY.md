@@ -17,4 +17,7 @@
   * [Promise.prototype.finally](es2018/promise.prototype.finally/README.md)
     * [1\) finally\(\) method](es2018/promise.prototype.finally/1-finally-method.md)
     * [2\) finally\(\) method support](es2018/promise.prototype.finally/2-finally-method-support.md)
+  * [New RegExp Features](es2018/new-regexp-features/README.md)
+    * [1\) s\(dotAll\) flag](es2018/new-regexp-features/1-s-dotall-flag.md)
+    * [2\) Named Capture Groups](es2018/new-regexp-features/2-named-capture-groups.md)
 
