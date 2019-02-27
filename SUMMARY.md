@@ -20,4 +20,5 @@
   * [New RegExp Features](es2018/new-regexp-features/README.md)
     * [1\) s\(dotAll\) flag](es2018/new-regexp-features/1-s-dotall-flag.md)
     * [2\) Named Capture Groups](es2018/new-regexp-features/2-named-capture-groups.md)
+    * [3\) 패턴 사용](es2018/new-regexp-features/3.md)
 
