@@ -22,4 +22,5 @@
     * [2\) Named Capture Groups](es2018/new-regexp-features/2-named-capture-groups.md)
     * [3\) 패턴 사용](es2018/new-regexp-features/3.md)
     * [4\) Unicode property escapes](es2018/new-regexp-features/4-unicode-property-escapes.md)
+    * [Template Literal Revision](es2018/new-regexp-features/template-literal-revision.md)
 
