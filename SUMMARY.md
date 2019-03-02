@@ -4,6 +4,7 @@
 
 ## ES2017
 
+* [Intro](es2017/intro.md)
 * [String padding](es2017/string-padding.md)
 * [Object.values & Object.entries](es2017/object.values-and-object.entries.md)
 
