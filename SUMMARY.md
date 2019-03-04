@@ -7,6 +7,7 @@
 * [Intro](es2017/intro.md)
 * [String padding](es2017/string-padding.md)
 * [Object.values & Object.entries](es2017/object.values-and-object.entries.md)
+* [Object.getOwnPropertyDescriptors](es2017/object.getownpropertydescriptors.md)
 
 ## es2018
 
@@ -31,5 +32,4 @@
   * [3\) 패턴 사용](es2018-1/new-regexp-features/3.md)
   * [4\) Unicode property escapes](es2018-1/new-regexp-features/4-unicode-property-escapes.md)
   * [Template Literal Revision](es2018-1/new-regexp-features/template-literal-revision.md)
-* [Untitled](es2018-1/untitled.md)
 
