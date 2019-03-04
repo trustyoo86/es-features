@@ -8,6 +8,7 @@
 * [String padding](es2017/string-padding.md)
 * [Object.values & Object.entries](es2017/object.values-and-object.entries.md)
 * [Object.getOwnPropertyDescriptors](es2017/object.getownpropertydescriptors.md)
+* [Trailing commas](es2017/trailing-commas.md)
 
 ## es2018
 
