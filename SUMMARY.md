@@ -9,6 +9,7 @@
 * [Object.values & Object.entries](es2017/object.values-and-object.entries.md)
 * [Object.getOwnPropertyDescriptors](es2017/object.getownpropertydescriptors.md)
 * [Trailing commas](es2017/trailing-commas.md)
+* [Async functions](es2017/async-functions.md)
 
 ## es2018
 
