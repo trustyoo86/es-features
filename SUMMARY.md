@@ -5,6 +5,7 @@
 ## ES2016 \(es7\)
 
 * [Array.prototype.includes\(\)](es2016/array.prototype.includes.md)
+* [Exponentiation Operator \(지수계산\)](es2016/exponentiation-operator.md)
 
 ## ES2017 \(es8\)
 
