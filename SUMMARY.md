@@ -2,7 +2,7 @@
 
 * [es-features](README.md)
 
-## ES2017
+## ES2017 \(es8\)
 
 * [Intro](es2017/intro.md)
 * [String padding](es2017/string-padding.md)
@@ -11,7 +11,7 @@
 * [Trailing commas](es2017/trailing-commas.md)
 * [Async functions](es2017/async-functions.md)
 
-## es2018
+## es2018 \(es9\)
 
 * [Rest/Spread Properties](es2018-1/rest-spread-properties/README.md)
   * [1\) spread 속성을 이용한 객체복사](es2018-1/rest-spread-properties/1-spread.md)
@@ -34,4 +34,8 @@
   * [3\) 패턴 사용](es2018-1/new-regexp-features/3.md)
   * [4\) Unicode property escapes](es2018-1/new-regexp-features/4-unicode-property-escapes.md)
   * [Template Literal Revision](es2018-1/new-regexp-features/template-literal-revision.md)
+
+## ES2016 \(es7\)
+
+* [Array.prototype.includes\(\)](es2016/array.prototype.includes.md)
 
