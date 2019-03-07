@@ -2,6 +2,10 @@
 
 * [es-features](README.md)
 
+## ES2016 \(es7\)
+
+* [Array.prototype.includes\(\)](es2016/array.prototype.includes.md)
+
 ## ES2017 \(es8\)
 
 * [Intro](es2017/intro.md)
@@ -34,8 +38,4 @@
   * [3\) 패턴 사용](es2018-1/new-regexp-features/3.md)
   * [4\) Unicode property escapes](es2018-1/new-regexp-features/4-unicode-property-escapes.md)
   * [Template Literal Revision](es2018-1/new-regexp-features/template-literal-revision.md)
-
-## ES2016 \(es7\)
-
-* [Array.prototype.includes\(\)](es2016/array.prototype.includes.md)
 
