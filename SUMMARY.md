@@ -5,6 +5,10 @@
 ## ES2015 \(es6\)
 
 * [const](es2015-es6/const.md)
+* [Scoping](es2015-es6/scoping/README.md)
+  * [1\) let](es2015-es6/scoping/1-let.md)
+  * [2\) Block-scoped Functions](es2015-es6/scoping/2-block-scoped-functions.md)
+* [Arrow Functions](es2015-es6/arrow-functions.md)
 
 ## ES2016 \(es7\)
 
