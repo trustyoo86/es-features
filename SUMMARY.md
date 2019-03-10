@@ -9,6 +9,10 @@
   * [1\) let](es2015-es6/scoping/1-let.md)
   * [2\) Block-scoped Functions](es2015-es6/scoping/2-block-scoped-functions.md)
 * [Arrow Functions](es2015-es6/arrow-functions.md)
+* [Extended Parameter Handling](es2015-es6/extended-parameter-handling/README.md)
+  * [1\) Defulat Paramter values](es2015-es6/extended-parameter-handling/1-defulat-paramter-values.md)
+  * [2\) Rest Parameter](es2015-es6/extended-parameter-handling/2-rest-parameter.md)
+  * [3\) Spread operator](es2015-es6/extended-parameter-handling/3-spread-operator.md)
 
 ## ES2016 \(es7\)
 
