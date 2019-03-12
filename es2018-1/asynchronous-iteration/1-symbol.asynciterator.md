@@ -5,7 +5,7 @@
 * 일반 객체를 value, done 형태로 반환하는 대신 value, done을 충족하는 promise를 반환함.
 
 ```javascript
-onst collection = {
+const collection = {
   a: 10,
   b: 20,
   c: 30,
