@@ -13,6 +13,7 @@
   * [1\) Defulat Paramter values](es2015-es6/extended-parameter-handling/1-defulat-paramter-values.md)
   * [2\) Rest Parameter](es2015-es6/extended-parameter-handling/2-rest-parameter.md)
   * [3\) Spread operator](es2015-es6/extended-parameter-handling/3-spread-operator.md)
+* [Termplate Literals](es2015-es6/termplate-literals.md)
 
 ## ES2016 \(es7\)
 
