@@ -16,6 +16,7 @@
 * [Termplate Literals](es2015-es6/termplate-literals.md)
 * [Destructuring Assignment](es2015-es6/destructuring-assignment.md)
 * [Object properties](es2015-es6/object-properties.md)
+* [Modules](es2015-es6/modules.md)
 
 ## ES2016 \(es7\)
 
