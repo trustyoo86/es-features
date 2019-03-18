@@ -17,6 +17,8 @@
 * [Destructuring Assignment](es2015-es6/destructuring-assignment.md)
 * [Object properties](es2015-es6/object-properties.md)
 * [Modules](es2015-es6/modules.md)
+* [Class](es2015-es6/class/README.md)
+  * [1\) Class extends](es2015-es6/class/1-class-extends.md)
 
 ## ES2016 \(es7\)
 
