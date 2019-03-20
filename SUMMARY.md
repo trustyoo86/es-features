@@ -21,6 +21,7 @@
   * [1\) Class extends](es2015-es6/class/1-class-extends.md)
   * [2\) static variables in class](es2015-es6/class/2-static-variables-in-class.md)
   * [3\) getter / setter](es2015-es6/class/3-getter-setter.md)
+* [Symbol type](es2015-es6/symbol-type.md)
 
 ## ES2016 \(es7\)
 
