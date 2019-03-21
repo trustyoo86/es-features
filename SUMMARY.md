@@ -22,6 +22,7 @@
   * [2\) static variables in class](es2015-es6/class/2-static-variables-in-class.md)
   * [3\) getter / setter](es2015-es6/class/3-getter-setter.md)
 * [Symbol type](es2015-es6/symbol-type.md)
+* [Iterators](es2015-es6/iterators.md)
 
 ## ES2016 \(es7\)
 
