@@ -28,3 +28,33 @@ var lhs = tmp.lhs;
 var rhs = tmp.rhs;
 ```
 
+* function내에서 destructuring을 이용한 참조변수 활용 가능
+
+```javascript
+function f ([ name, val ]) {
+    console.log(name, val) // bar 42
+}
+// 변수로 할당 가능
+function g ({ name: n, val: v }) {
+    // foo 7
+    console.log(n, v)
+}
+function h ({ name, val }) {
+    console.log(name, val)
+}
+f([ "bar", 42 ])
+g({ name: "foo", val:  7 })
+h({ name: "bar", val: 42 })
+```
+
+* array내 변수가 없는 경우 할당으로 가능
+
+```javascript
+var list = [ 7, 42 ]
+var [ a = 1, b = 2, c = 3, d ] = list
+a === 7
+b === 42
+c === 3
+d === undefined
+```
+
