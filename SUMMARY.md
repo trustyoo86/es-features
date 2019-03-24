@@ -23,7 +23,9 @@
   * [3\) getter / setter](es2015-es6/class/3-getter-setter.md)
 * [Symbol type](es2015-es6/symbol-type.md)
 * [Iterators](es2015-es6/iterators.md)
-* [Map/Set & WeakMap/WeakSet](es2015-es6/map-set-and-weakmap-weakset.md)
+* [Map/Set & WeakMap/WeakSet](es2015-es6/map-set-and-weakmap-weakset/README.md)
+  * [1\) Map data-structure](es2015-es6/map-set-and-weakmap-weakset/1-map-data-structure.md)
+  * [2\) Weak-Link data structure](es2015-es6/map-set-and-weakmap-weakset/2-weak-link-data-structure.md)
 
 ## ES2016 \(es7\)
 
