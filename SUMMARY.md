@@ -26,6 +26,11 @@
 * [Map/Set & WeakMap/WeakSet](es2015-es6/map-set-and-weakmap-weakset/README.md)
   * [1\) Map data-structure](es2015-es6/map-set-and-weakmap-weakset/1-map-data-structure.md)
   * [2\) Weak-Link data structure](es2015-es6/map-set-and-weakmap-weakset/2-weak-link-data-structure.md)
+* [New Built-In Methods](es2015-es6/new-built-in-methods/README.md)
+  * [1\) Object.assign](es2015-es6/new-built-in-methods/1-object.assign.md)
+  * [2\) find / findIndex](es2015-es6/new-built-in-methods/2-find-findindex.md)
+  * [3\) string repeat](es2015-es6/new-built-in-methods/3-string-repeat.md)
+  * [4\) string searching](es2015-es6/new-built-in-methods/4-string-searching.md)
 
 ## ES2016 \(es7\)
 
