@@ -33,6 +33,7 @@
   * [4\) string searching](es2015-es6/new-built-in-methods/4-string-searching.md)
 * [Generators](es2015-es6/generators.md)
 * [Promise](es2015-es6/promise.md)
+* [Meta-Programming](es2015-es6/meta-programming.md)
 
 ## ES2016 \(es7\)
 
