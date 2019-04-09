@@ -75,5 +75,6 @@
 
 ## ES2019 \(ES10\)
 
+* [Array.flat & Array.flatMap](es2019-es10/array.flat-and-array.flatmap.md)
 * [Object.fromEntries](es2019-es10/object.fromentries.md)
 
