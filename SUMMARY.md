@@ -73,3 +73,7 @@
   * [4\) Unicode property escapes](es2018-1/new-regexp-features/4-unicode-property-escapes.md)
   * [Template Literal Revision](es2018-1/new-regexp-features/template-literal-revision.md)
 
+## ES2019 \(ES10\)
+
+* [Object.fromEntries](es2019-es10/object.fromentries.md)
+
