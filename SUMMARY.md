@@ -79,4 +79,5 @@
 * [Object.fromEntries](es2019-es10/object.fromentries.md)
 * [String.trimStart & trimEnd](es2019-es10/string.trimstart-and-trimend.md)
 * [Optional Catch Binding](es2019-es10/optional-catch-binding.md)
+* [Function.toString\(\)](es2019-es10/function.tostring.md)
 
