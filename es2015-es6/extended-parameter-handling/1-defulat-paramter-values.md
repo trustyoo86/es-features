@@ -16,7 +16,7 @@ function f (x, y, z) {
     if (z === undefined)
         z = 42;
     return x + y + z;
-};
+}
 f(1) === 50;
 ```
 

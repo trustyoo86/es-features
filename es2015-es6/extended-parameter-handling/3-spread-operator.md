@@ -28,7 +28,7 @@ var other = [ 1, 2 ].concat(params); // [ 1, 2, "hello", true, 7 ]
 function f (x, y) {
     var a = Array.prototype.slice.call(arguments, 2);
     return (x + y) * a.length;
-};
+}
 f.apply(undefined, [ 1, 2 ].concat(params)) === 9;
 
 var str = "foo";
