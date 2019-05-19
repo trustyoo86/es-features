@@ -15,18 +15,18 @@ export class Node {
     get data    ()     { return attachedData.get(this) }
 }
 
-let foo = new Node("foo")
+let foo = new Node("foo");
 
-JSON.stringify(foo) === '{"id":"foo"}'
-foo.mark()
-foo.data = "bar"
-foo.data === "bar"
-JSON.stringify(foo) === '{"id":"foo"}'
+JSON.stringify(foo) === '{"id":"foo"}';
+foo.mark();
+foo.data = "bar";
+foo.data === "bar";
+JSON.stringify(foo) === '{"id":"foo"}';
 
-isMarked.has(foo)     === true
-attachedData.has(foo) === true
-foo = null  /* foo에 대한 reference만 제거 */
-attachedData.has(foo) === false
-isMarked.has(foo)     === false
+isMarked.has(foo)     === true;
+attachedData.has(foo) === true;
+foo = null;  /* foo에 대한 reference만 제거 */
+attachedData.has(foo) === false;
+isMarked.has(foo)     === false;
 ```
 

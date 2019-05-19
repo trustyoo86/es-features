@@ -18,9 +18,10 @@ let fibonacci = {
 }
 
 for (let n of fibonacci) {
-    if (n > 1000)
-        break
-    console.log(n)
+    if (n > 1000) {
+        break;
+    }
+    console.log(n);
 }
 ```
 
