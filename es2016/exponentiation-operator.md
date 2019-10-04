@@ -1,4 +1,4 @@
-# Exponentiation Operator \(지수계산\)
+# Exponentiation Operator \(지수 연산자\)
 
 * 제곱근 계산 가능
 * `Math.pow()`와 비슷한 기능을 함.
