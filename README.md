@@ -5,6 +5,11 @@ description: ECMA Scripts 내역을 정리한 gitbook 입니다.
 
 # es-features
 
+ECMA Scripts 내역을 정리한 gitbook 입니다.
+
+[Gitbook](https://app.gitbook.com/@es-features/s/features/) 으로 확인하시면 더 편하게 보실 수 있습니다.
+
+
 {% hint style="info" %}
 각 section에서 ecma script에 대한 feature들을 확인 할 수 있습니다 :\) 
 
