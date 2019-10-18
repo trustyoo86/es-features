@@ -25,8 +25,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://tmdgus0084.github.io"><img src="https://avatars1.githubusercontent.com/u/32220765?v=4" width="100px;" alt="Seung-hyun Hwang"/><br /><sub><b>Seung-hyun Hwang</b></sub></a><br /><a href="https://github.com/trustyoo86/es-features/commits?author=tmdgus0084" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Jangharyeon"><img src="https://avatars3.githubusercontent.com/u/2783616?v=4" width="100px;" alt="Markone"/><br /><sub><b>Markone</b></sub></a><br /><a href="https://github.com/trustyoo86/es-features/commits?author=Jangharyeon" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://tmdgus0084.github.io"><img src="https://avatars1.githubusercontent.com/u/32220765?v=4" width="100px;" alt="Seung-hyun Hwang"/><br /><sub><b>Seung-hyun Hwang</b></sub></a><br /><a href="https://github.com/trustyoo86/es-features/commits?author=tmdgus0084" title="Documentation">📖</a></td>
   </tr>
 </table>
 
