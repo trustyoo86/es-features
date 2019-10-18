@@ -1,10 +1,10 @@
 ---
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors) <br/>
 description: ECMA Scripts 내역을 정리한 gitbook 입니다.
 ---
 
 # es-features
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors) <br/>
 ECMA Scripts 내역을 정리한 gitbook 입니다.
 
 [Gitbook](https://app.gitbook.com/@es-features/s/features/) 으로 확인하시면 더 편하게 보실 수 있습니다.
