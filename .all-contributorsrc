@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tmdgus0084",
+      "name": "Seung-hyun Hwang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32220765?v=4",
+      "profile": "https://tmdgus0084.github.io",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "es-features",
+  "projectOwner": "trustyoo86",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
