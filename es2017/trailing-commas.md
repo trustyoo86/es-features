@@ -9,7 +9,7 @@ function es8(var1, var2, var3,) {
 }
 ```
 
-* function 호출시에도 삽입 가
+* function 호출시에도 삽입 가능
 
 ```javascript
 es8(10, 20, 30,);
