@@ -86,3 +86,4 @@
 * [Private Fields in Class](es2020-es11/private-class.md)
 * [Optional Chaining Operator](es2020-es11/optional-chaining.md)
 * [Nullish Coalescing](es2020-es11/nullish-coalescing.md)
+* [BigInt](es2020-es11/bigint.md)
