@@ -87,3 +87,6 @@
 * [Optional Chaining Operator](es2020-es11/optional-chaining.md)
 * [Nullish Coalescing](es2020-es11/nullish-coalescing.md)
 * [BigInt](es2020-es11/bigint.md)
+
+## ES2021 \(ES12\)
+* [String.replaceAll](es2021-es12/string-replaceall.md)
